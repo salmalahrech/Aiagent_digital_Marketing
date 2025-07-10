@@ -1,14 +1,8 @@
 ﻿# AI Digital Agent
-Here’s a polished `README.md` file for your GitHub project: **AI Digital Marketing Agent**.
 
-You can copy this into your `README.md` file in your project root.
-
----
-
-```markdown
 # 🤖 AI Digital Marketing Agent
 
-An automated Python agent that performs digital competitor research and content planning based on your target industry or keyword. This project simulates how digital marketers gather insights from competitor websites and social media — and turns that into a ready-to-use content strategy report.
+An automated Python agent that performs digital competitor research and content planning based on your target industry or keyword. This project simulates how digital marketers gather insights from competitor websites and social media  and turns that into a ready-to-use content strategy report.
 
 ---
 
